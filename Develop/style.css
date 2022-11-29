@@ -68,30 +68,4 @@ body {
     top: 55%;
   }
 
-  #btnCal {
-    background-color: lightblue;
-    border: #000000;
-    border-style: dashed;
-    border-width: 3px;
-    border-radius: 5rem;
-    width: 400px;
-    height: 150px;
-    margin: 50px;
-    padding: 15px;
-    font-size:xx-large;
-    font-style: oblique;
-    font-weight: bold;
-    color: #000000;
-    justify-content: center;
-    align-items: center;
-    cursor: pointer;
-    display: flex;
-    flex-wrap: wrap;
-    float: left;
-    
-  }
-
-  #btnCal:hover {
-    background-color: aqua;
-    border: 1px;
-  }
+ 
